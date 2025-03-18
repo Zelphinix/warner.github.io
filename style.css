@@ -1,0 +1,173 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #1f1c1e;
+  overflow-x: hidden;
+  padding-top: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #ada3aa;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #0f0f0f;
+  background-color: #ada3aa;
+}
+
+
+#main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  overflow: hidden;
+  font-family: "Times New Roman", Times, serif;
+  background-image: url('https://cdn.pixabay.com/photo/2019/03/03/20/23/background-4032775_1280.png');
+}
+
+section {
+  margin: 20px;
+}
+
+.h2 {
+  justify-content: center; 
+  text-align: center;
+  background-color: #0f0f0f;
+}
+
+#about {
+  background-color: #f5eeee;
+  overflow: hidden;
+  border: 2px solid black;
+  padding: 0px 5px;
+}
+
+.AboutWritten {
+  float: left;
+  width: 75%;
+  height: 75%;
+}
+
+.AboutImage img {
+  float: right;
+  width: 25%;
+  height: 25%;
+  background-color: #7c7474;
+  object-fit: contain;
+}
+
+#projects {
+  background-color: #f5eeee;
+  border: 2px solid black;
+  padding: 0px 5px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.project {
+  margin-top: 2px;
+}
+
+/* .flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+} */
+
+@media (max-width: 800px) {
+  .flex {
+    flex-direction: column;
+  }
+}
+
+#project-1 {
+  width: 100%;
+  height: 100%;
+  background-color: #e8e1e1;
+}
+
+.flex-2 {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+.flex-2 img {
+  width: 25%;
+  height: 25%;
+  flex: 50%;
+}
+
+#project-2 {
+  width: 100%;
+  height: 100%;
+  background-color: #e8e1e1;
+}
+
+#project-3 {
+  width: 100%;
+  height: 100%;
+  background-color: #e8e1e1;
+}
+
+#project-4 {
+  width: 100%;
+  height: 100%;
+  background-color: #e8e1e1;
+}
+
+#joint {
+  background-color: #f5eeee;
+  overflow: hidden;
+  border: 2px solid black;
+  padding: 0px 5px;
+}
+
+.contact {
+  float: left;
+  width: 50%;
+  height: 50%;
+}
+
+.InnerContact {
+  background-color: rgb(230, 222, 222);
+  border-radius: 25px;
+  top: 50%;
+  left: 50%;
+  padding: 20px 25px ;
+  justify-content: center;
+}
+
+.resume {
+  background-color: #f5eeee;
+  float: right;
+  width: 50%;
+  height: 50%;;
+}
+
+.iframe {
+  display: flex;
+  justify-content: center;
+}
+
+.contact, .resume h2 {
+  text-align: center;
+}
+
+
+
+
