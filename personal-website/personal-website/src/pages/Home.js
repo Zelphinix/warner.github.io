@@ -1,8 +1,18 @@
+import AboutMe from "../sections/AboutMe";
+import Contact from "../sections/Contact";
+import Projects from "../sections/Projects";
+import { Box } from "@mui/material";
+
+// import Profile from "../components/Profile";
+
 function Home() {
-  return <h1>Welcome to Home Page</h1>;
-  // INtro - component Z
-  // Projects - component Y
-  // About me - component X
+  return (
+    <Box>
+      <AboutMe />
+      <Projects />
+      <Contact />
+    </Box>
+  );
 }
 
 export default Home;
