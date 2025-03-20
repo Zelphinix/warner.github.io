@@ -1,0 +1,8 @@
+function Home() {
+  return <h1>Welcome to Home Page</h1>;
+  // INtro - component Z
+  // Projects - component Y
+  // About me - component X
+}
+
+export default Home;
