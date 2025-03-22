@@ -1,16 +1,16 @@
 import './App.css';
 
 //importing components
-import AboutMe from './components/AboutMe';
+import NavBar from './components/NavBar';
+import AboutMe from './components/About/AboutMe';
 import Contact from './components/Contact';
-import ResponsiveAppBar from './components/NavBar';
 import Projects from './components/Projects';
 import Resume from './components/Resume';
 
 function App() {
   return (
     <div className="App">
-      <ResponsiveAppBar/>
+      <NavBar/>
       <AboutMe/>
       <Contact/>
       <Projects/>
