@@ -17,8 +17,8 @@ function App() {
       {/* <NavBar /> */}
       <AboutMe />
       <Education />
-      <Contact />
-      {/* <Projects /> */}
+      <Projects />
+      {/* <Contact /> */}
       {/* <Resume /> */}
     </div>
   );
