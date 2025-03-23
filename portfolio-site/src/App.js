@@ -8,14 +8,16 @@ import Contact from "./Sections/Contact/Contact";
 import Projects from "./Sections/Projects/Projects";
 import Resume from "./Sections/Resume/Resume";
 import Homescreen from "./components/Homescreen";
+import Education from "./Sections/Education/Education";
 
 function App() {
   return (
     <div className="App">
       <Homescreen />
       {/* <NavBar /> */}
-      {/* <AboutMe /> */}
-      {/* <Contact /> */}
+      <AboutMe />
+      <Education />
+      <Contact />
       {/* <Projects /> */}
       {/* <Resume /> */}
     </div>
