@@ -4,12 +4,15 @@ import { FaGraduationCap, FaBook  } from "react-icons/fa";
 function AboutMe(){
     return (
         <section id = 'about'>
+            <div className = 'aboutText'>
+                <br></br>
             <h5>Meet Me</h5>
             <h2>About Me</h2>
+            </div>
             <div className = 'aboutMePage'>
                 <div className = 'aboutMe'>
                     <div className = 'aboutMe-Image'>
-                        <img src = "https://images.freeimages.com/variants/Nct7VHHK9FeQMo6LkvAmpZ5Z/f4a36f6589a0e50e702740b15352bc00e4bfaf6f58bd4db850e167794d05993d?fmt=webp&w=500" alt = "Profile Pic"></img>
+                        <img src = "https://t3.ftcdn.net/jpg/02/47/02/84/360_F_247028431_yPo8nwG9HuQN6oHyix8YnhYBeOXtF0c4.jpg"></img>
                 </div>
                 </div>
                 
@@ -33,8 +36,8 @@ function AboutMe(){
                         </article>
 
                     </div>
-
-                    <p>This is a paragraph about who I am, my position, where I study, what I want from a job, academic experience, work experience, excited to learn and challenge myself</p>
+                    <div className = 'about_writing'><p>This is a paragraph about who I am, my position, where I study, what I want from a job, academic experience, work experience, excited to learn and challenge myself. This is a paragraph about who I am, my position, where I study, what I want from a job, academic experience, work experience, excited to learn and challenge myself. This is a paragraph about who I am, my position, where I study, what I want from a job, academic experience, work experience, excited to learn and challenge myself. This is a paragraph about who I am, my position, where I study, what I want from a job, academic experience, work experience, excited to learn and challenge myself. </p></div>
+                    
                 </div>
             </div>
     </section>
