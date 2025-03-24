@@ -47,6 +47,7 @@ const Contact = () => {
           </button>
         </form>
       </section>
+      <footer className="contact-footer">© 2025 Shriya Warner</footer>
     </div>
   );
 };
