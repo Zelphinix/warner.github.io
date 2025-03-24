@@ -1,25 +1,27 @@
 import "./App.css";
-import HomeScreen from "./components/Homescreen";
 
 //importing components
-import NavBar from "./components/NavBar";
+// import NavBar from "./components/NavBar";
+// import HomeScreen from "./components/Homescreen";
+// import Resume from "./Sections/Resume/Resume";
+// import Contact from "./Sections/Contact/Contact";
 import AboutMe from "./Sections/About/AboutMe";
-import Contact from "./Sections/Contact/Contact";
 import Projects from "./Sections/Projects/Projects";
-import Resume from "./Sections/Resume/Resume";
 import Homescreen from "./components/Homescreen";
 import Education from "./Sections/Education/Education";
-
+import WorkExperience from "./Sections/WorkExperience/WorkExperience";
+import Contact from "./Sections/Contact/Contact";
 function App() {
   return (
     <div className="App">
       <Homescreen />
-      {/* <NavBar /> */}
       <AboutMe />
       <Education />
       <Projects />
-      {/* <Contact /> */}
+      <WorkExperience />
+      <Contact />
       {/* <Resume /> */}
+      {/* <NavBar /> */}
     </div>
   );
 }
