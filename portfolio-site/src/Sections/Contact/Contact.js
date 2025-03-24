@@ -1,14 +1,37 @@
-import React from "react";
-import "./Contact.css";
+import './Contact.css';
 
-const Contact = () => {
-  return (
-    <div>
-      <div className="contact-banner" />
-      <section className="contact-section">
-        <h2 className="contact-title">CONTACT</h2>
-        <p className="contact-email">Syarner@gmail.com</p>
-        <p className="contact-subtitle">Reach out using this form:</p>
+// Import icons
+import { IoIosMail } from "react-icons/io";
+import { FaPhoneAlt } from "react-icons/fa";
+
+function Contact() {
+    return (
+        <section className="contact-section">
+            <div className="contact-banner"></div>
+
+                <div className="contact-content">
+                    <small>Contact Me</small>
+                    <h2>Get In Touch</h2>
+                    <div className="contact-rows">
+                    <div className="contact-row">
+                        <div className="contact-left">
+                            <div className="content-icon"><IoIosMail /></div>
+                            <h2>Email: </h2>
+                            <p>Krystalflare@gmail.com</p>
+                            
+                        </div>
+                    
+                        <div className="contact-right">
+                            <div className="content-icon"><FaPhoneAlt /></div>
+                            <h2>Phone: </h2>
+                            <p>(+64) 020 4020 8920</p>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+        </section>
+    )
+}
 
         <form
           className="contact-form"

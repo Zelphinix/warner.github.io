@@ -10,7 +10,7 @@ const Education = () => {
         <h2>Education</h2>
 
         <div className="education-entry">
-          <p className="years">2023 - 2025</p>
+          <p className="years">2024 - 2025</p>
           <div className="education-row">
             <div className="left">
               <p className="degree">
