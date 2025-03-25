@@ -19,11 +19,7 @@ function AboutMe() {
           moments—whether that’s through a coding project, a team brainstorm, or
           a hike through the bush.
         </p>
-        <a
-          className="cv-download"
-          href="portfolio-site/public/ShriyaWarnerCV.pdf"
-          download
-        >
+        <a className="cv-download" href="/ShriyaWarnerCV.pdf" download>
           CV Download
         </a>
       </div>
