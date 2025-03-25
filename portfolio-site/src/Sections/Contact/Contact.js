@@ -13,7 +13,6 @@ const Contact = () => {
         <form
           className="contact-form"
           action="https://formspree.io/f/xldjlevo"
-          // action="https://formspree.io/f/xjkyrepq"
           method="POST"
         >
           <div className="row">

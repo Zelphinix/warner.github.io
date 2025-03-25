@@ -46,19 +46,6 @@
   border-radius: 6px;
 }
 
-.hamburger {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 4px;
-}
-
-.hamburger span {
-  width: 20px;
-  height: 2px;
-  background-color: white;
-}
-
 .hero-content {
   position: absolute;
   top: 50%;
