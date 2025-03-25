@@ -4,6 +4,7 @@
   color: #1f1f1f;
   font-family: 'DM Sans', sans-serif;
   padding: 0;
+  /* max-width: 1100px; */
 }
 
 /* Banner image at the top */
@@ -17,9 +18,9 @@
 
 /* Content wrapper */
 .education-content {
-  padding: 5rem 6rem;
-  /* max-width: 1100px; */
-  /* margin: 0 auto; */
+  padding: 5rem 0rem;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
 /* Section title */
@@ -73,6 +74,16 @@
 
 .detail {
   line-height: 1.5;
+}
+
+.transcript-download {
+  background-color: #2b1b14;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
 }
 
 /* Responsive stack on mobile */

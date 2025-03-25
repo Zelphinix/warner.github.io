@@ -55,6 +55,15 @@ const Education = () => {
             </div>
           </div>
         </div>
+
+        <a
+          className="transcript-download"
+          href="portfolio-site/public/Transcript.pdf"
+          download
+        >
+        Transcript Download
+        </a>
+
       </div>
     </section>
   );
