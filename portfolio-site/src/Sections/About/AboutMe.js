@@ -1,5 +1,4 @@
 import "./AboutMe.css";
-// import { FaGraduationCap, FaBook } from "react-icons/fa";
 
 function AboutMe() {
   return (

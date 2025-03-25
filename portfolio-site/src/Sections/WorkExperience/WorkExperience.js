@@ -7,7 +7,6 @@ const experiences = [
     company: "LSG Global Catering",
     title: "LSG Global Catering",
     stack: null,
-    //   "FrontEnd in React w/Redux + Typescript. BackEnd in Java Spring Boot 3",
     details: [
       "Supervised and led production personnel to ensure optimal workflow and efficiency across operations. Actively identified key areas for process improvement to enhance overall productivity and performance. Provided ongoing guidance and support to team members, ensuring adherence to operating standards and fostering a collaborative, high-performing work environment."
     ]

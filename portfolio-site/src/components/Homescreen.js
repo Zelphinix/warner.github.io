@@ -7,13 +7,6 @@ const Homescreen = () => {
     <div className="hero-container">
       <header className="hero-header">
         <div className="nav-left">KIA ORA</div>
-        {/* <div className="nav-right">
-          <div className="hamburger">
-            <span />
-            <span />
-            <span />
-          </div>
-        </div> */}
       </header>
 
       <div className="hero-content">
