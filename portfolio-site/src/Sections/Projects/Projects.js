@@ -36,7 +36,7 @@ const Projects = () => {
         <h2 className="projects-title">Projects</h2>
         <p className="projects-intro">
           I build things that spark curiosity—tools, games, and ideas brought to
-          life with code. Whether it's solving problems or creating new worlds,
+          life with code. Whether it's solving problems or brainstorming ideas,
           I love the challenge and creativity that comes with building something
           from scratch.
         </p>

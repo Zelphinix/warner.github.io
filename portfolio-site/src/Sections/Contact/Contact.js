@@ -7,12 +7,13 @@ const Contact = () => {
       <div className="contact-banner" />
       <section className="contact-section">
         <h2 className="contact-title">CONTACT</h2>
-        <p className="contact-email">username@gmail.com</p>
+        <p className="contact-email">Syarner@gmail.com</p>
         <p className="contact-subtitle">Reach out using this form:</p>
 
         <form
           className="contact-form"
-          action="https://formspree.io/f/xjkyrepq"
+          action="https://formspree.io/f/xldjlevo"
+          // action="https://formspree.io/f/xjkyrepq"
           method="POST"
         >
           <div className="row">

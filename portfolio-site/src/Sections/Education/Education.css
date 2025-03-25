@@ -76,6 +76,16 @@
   line-height: 1.5;
 }
 
+.transcript-download {
+  background-color: #2b1b14;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
 /* Responsive stack on mobile */
 @media (max-width: 768px) {
   .education-row {
