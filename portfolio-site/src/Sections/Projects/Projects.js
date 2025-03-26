@@ -10,7 +10,7 @@ const projects = [
   },
   {
     name: "BLOOM",
-    image: "/Bloom.png",
+    image: "Bloom.png",
     description: "A safe-space focused social platform concept.",
     tools: ["Figma", "React", "Illustrator"]
   },
