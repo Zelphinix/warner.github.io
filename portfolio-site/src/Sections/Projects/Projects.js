@@ -16,7 +16,7 @@ const projects = [
   },
   {
     name: "AI Resume Screener",
-    image: "/AI.png",
+    image: "https://i.postimg.cc/cL72B95p/AI.png",
     description: "Reads and summarizes resumes to match jobs.",
     tools: ["Gemini", "LangChain", "Python"]
   },
