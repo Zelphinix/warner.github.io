@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site",
   "version": "0.1.0",
-  "homepage": "https://zelphinix.github.io/warner.github.io/",
+  "homepage": "https://zelphinix.github.io/warner.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -25,6 +25,7 @@
     "tailwindcss": "^4.0.15",
     "web-vitals": "^2.1.4"
   },
+
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -34,17 +35,10 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": ["react-app", "react-app/jest"]
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.2%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",

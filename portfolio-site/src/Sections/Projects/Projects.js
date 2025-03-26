@@ -1,28 +1,33 @@
 import React from "react";
 import "./Projects.css";
 
+import bloom from "../../assets/Bloom.png";
+import ghostlightcaverns from "../../assets/ghostlightCaverns.png";
+import homescreen from "../../assets/homescreen.jpg";
+import AI from "../../assets/AI.png";
+
 const projects = [
   {
     name: "Ghostlight Caverns",
-    image: "portfolio-site/public/ghostlightCaverns.png",
+    image: ghostlightcaverns,
     description: "A puzzle-adventure game exploring logic and shadows.",
     tools: ["Unity", "C#", "Piskel"]
   },
   {
     name: "BLOOM",
-    image: "Bloom.png",
+    image: bloom,
     description: "A safe-space focused social platform concept.",
     tools: ["Figma", "React", "Illustrator"]
   },
   {
     name: "AI Resume Screener",
-    image: "https://i.postimg.cc/cL72B95p/AI.png",
+    image: AI,
     description: "Reads and summarizes resumes to match jobs.",
     tools: ["Gemini", "LangChain", "Python"]
   },
   {
     name: "Portfolio Site",
-    image: "/homescreen.jpg",
+    image: homescreen,
     description: "This site! Built with love and caffeine.",
     tools: ["React", "Vite", "Framer Motion"]
   }

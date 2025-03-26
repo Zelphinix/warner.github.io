@@ -56,7 +56,7 @@ const Education = () => {
           </div>
         </div>
 
-        <a className="transcript-download" href="/Transcript.pdf" download>
+        <a className="transcript-download" href="/Transcriptb.pdf" download>
           Transcript Download
         </a>
       </div>
