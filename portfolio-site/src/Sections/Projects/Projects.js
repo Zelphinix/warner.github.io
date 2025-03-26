@@ -4,7 +4,7 @@ import "./Projects.css";
 const projects = [
   {
     name: "Ghostlight Caverns",
-    image: "https://github.com/Zelphinix/warner.github.io/blob/main/portfolio-site/public/ghostlightCaverns.png?raw=true",
+    image: "portfolio-site/public/ghostlightCaverns.png",
     description: "A puzzle-adventure game exploring logic and shadows.",
     tools: ["Unity", "C#", "Piskel"]
   },
