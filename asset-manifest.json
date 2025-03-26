@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/warner.github.io/static/css/main.adf1509a.css",
+    "main.js": "/warner.github.io/static/js/main.e13aa118.js",
+    "static/js/453.534db5b8.chunk.js": "/warner.github.io/static/js/453.534db5b8.chunk.js",
+    "static/media/homescreen.jpg": "/warner.github.io/static/media/homescreen.248dc15c99bec558a4f4.jpg",
+    "static/media/city.png": "/warner.github.io/static/media/city.fec006c6460ccaa2f634.png",
+    "static/media/shriya.png": "/warner.github.io/static/media/shriya.f042378696ea61c18faf.png",
+    "static/media/coffee2.png": "/warner.github.io/static/media/coffee2.b3dbbb10497662087b33.png",
+    "static/media/SIT.jpg": "/warner.github.io/static/media/SIT.52e1154d8027f4134bf5.jpg",
+    "static/media/projects.png": "/warner.github.io/static/media/projects.5138da5cd3e555c4f005.png",
+    "static/media/slick.svg": "/warner.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/warner.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/warner.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/warner.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/warner.github.io/index.html",
+    "main.adf1509a.css.map": "/warner.github.io/static/css/main.adf1509a.css.map",
+    "main.e13aa118.js.map": "/warner.github.io/static/js/main.e13aa118.js.map",
+    "453.534db5b8.chunk.js.map": "/warner.github.io/static/js/453.534db5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf1509a.css",
+    "static/js/main.e13aa118.js"
+  ]
+}
