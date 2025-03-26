@@ -22,7 +22,9 @@ function AboutMe() {
         {/* <a className="cv-download" href="/ShriyaWarnerCV.pdf" download> */}
         <a
           className="cv-download"
-          href="https://raw.githubusercontent.com/Zelphinix/warner.github.io/db165037a1147f3b43d7ff0efc43f6947650536b/portfolio-site/public/ShriyaWarnerCV.pdf"
+          // href="https://raw.githubusercontent.com/Zelphinix/warner.github.io/db165037a1147f3b43d7ff0efc43f6947650536b/portfolio-site/public/ShriyaWarnerCV.pdf"
+          href="https://raw.githubusercontent.com/Zelphinix/warner.github.io/main/portfolio-site/public/ShriyaWarnerCV.pdf
+          "
           download
         >
           CV Download
