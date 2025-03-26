@@ -8,7 +8,7 @@ const experiences = [
     title: "LSG Global Catering",
     stack: null,
     details: [
-      "Supervised and led production personnel to ensure optimal workflow and efficiency across operations. Actively identified key areas for process improvement to enhance overall productivity and performance. Provided ongoing guidance and support to team members, ensuring adherence to operating standards and fostering a collaborative, high-performing work environment."
+      "I supervised a team of up to fourteen production personnel, ensuring efficient operations and adherence to all company policies. Actively identified key areas for process improvement to enhance overall productivity and performance. Provided ongoing guidance and support to team members, ensuring adherence to operating standards and fostering a collaborative, high-performing work environment."
     ]
   },
   {
@@ -17,7 +17,7 @@ const experiences = [
     title: "Supervisor",
     stack: null,
     details: [
-      "I supervised a team of up to eight production personnel, ensuring efficient operations and adherence to all company policies. I prepared effective work schedules to optimize productivity and meet deadlines. I identified areas within the business where improvements could be made and implemented strategies to enhance overall performance. Additionally, I proactively addressed issues within the team, providing continuous support and guidance to ensure alignment with operating standards."
+      "Supervised and led production personnel to ensure optimal workflow and efficiency across operations. I prepared effective work schedules to optimize productivity and meet deadlines. I identified areas within the business where improvements could be made and implemented strategies to enhance overall performance. Additionally, I proactively addressed issues within the team, providing continuous support and guidance to ensure alignment with operating standards."
     ]
   }
 ];
