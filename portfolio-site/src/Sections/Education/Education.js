@@ -56,7 +56,11 @@ const Education = () => {
           </div>
         </div>
 
-        <a className="transcript-download" href="/Transcript.pdf" download>
+        <a
+          className="transcript-download"
+          href="https://zelphinix.github.io/warner.github.io/Transcript.pdf"
+          download
+        >
           Transcript Download
         </a>
       </div>
