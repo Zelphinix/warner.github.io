@@ -10,6 +10,9 @@ import Contact from "./Sections/Contact/Contact";
 function App() {
   return (
     <div className="App">
+    <head>
+        <title>Shriya Warner - Portfolio</title>
+    </head>
       <Homescreen />
       <AboutMe />
       <Education />
