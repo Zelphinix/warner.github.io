@@ -3,6 +3,15 @@ import "./WorkExperience.css";
 
 const experiences = [
   {
+    date: "2025",
+    company: "Southern Institute of Technology",
+    title: "Tuakana",
+    stack: null,
+    details: [
+      "As a Tuākana, I provide academic and social support along with guidance towards my Tēina, ensuring their understanding of current learning material and well-being outside a classroom setting. This involves explaining computer concepts, sharing study techniques, and offering encouragement to build their confidence and facilitate their academic progress. Through active listening and tailored support, I contribute to a positive and collaborative learning environment."
+    ]
+  },
+  {
     date: "2022",
     company: "LSG Global Catering",
     title: "LSG Global Catering",
