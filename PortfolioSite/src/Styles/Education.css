@@ -1,0 +1,80 @@
+.education-page-wrapper {
+  width: 100vw;
+  min-height: 100vh;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.education-banner {
+  width: 100%;
+  height: 250px;
+  background-image: url('../assets/SIT.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.education-section {
+  background-color: #f9e7df;
+  flex-grow: 1;
+  padding: 3rem 2rem;
+  width: 100%;
+  box-sizing: border-box;
+  color: #2a1a14;
+}
+
+.education-title {
+  font-family: 'Outfit', sans-serif;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: #2a1a14;
+}
+
+.education-subtitle {
+  font-family: 'Outfit', sans-serif;
+  font-size: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  color: #452e24;
+  border-bottom: 2px solid #452e24;
+  padding-bottom: 0.5rem;
+}
+
+.education-entry {
+  margin-bottom: 2.5rem;
+}
+
+.years {
+  font-weight: bold;
+  color: #6e4f43;
+  margin-bottom: 0.5rem;
+}
+
+.education-row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  background-color: #fffaf7;
+  padding: 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.education-row .left,
+.education-row .right {
+  flex: 1;
+}
+
+.degree {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #452e24;
+}
+
+.institution {
+  font-size: 1rem;
+  color: #6e4f43;
+}

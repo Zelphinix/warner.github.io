@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Portfolio Website",
+    "tech": "React, VITE, CSS",
+    "description": "Built a personal portfolio website to showcase projects and skills.",
+    "imageFileName": "homescreen.jpg"
+  },
+  {
+    "title": "BLOOM",
+    "tech": "Figma, React, Illustrator",
+    "description": "A safe-space focused social platform concept.",
+    "imageFileName": "Bloom.png"
+  },
+  {
+    "title": "AI Resume Screener",
+    "tech": "Gemini, LangChain, Python",
+    "description": "Reads and summarizes resumes to match jobs.",
+    "imageFileName": "ai.png"
+  },
+  {
+    "title": "Ghostlight Caverns",
+    "tech": "Unity, C#, Piskel",
+    "description": "A puzzle-adventure game exploring logic and shadows.",
+    "imageFileName": "ghostlightCaverns.png"
+  }
+]
