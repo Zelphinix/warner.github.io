@@ -17,7 +17,7 @@ function App() {
       <Nav />
       <div className="app-wrapper">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/warner.github.io/" element={<Home />} />
           <Route path="/about" element={<AboutMe />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<ContactMe />} />
