@@ -1,4 +1,5 @@
 import "../Styles/Home.css";
+
 import shriya from "../assets/shriya.png";
 import backgroundImage from "../assets/homescreen.jpg";
 

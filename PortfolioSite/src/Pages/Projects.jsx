@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+
 import "../styles/Projects.css";
 
 import projectsData from "../assets/projects.json";
